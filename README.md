@@ -1,2 +1,2 @@
 # lpthw
-My code for learning python the hard way
+My codes for learning python the hard way
